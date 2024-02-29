@@ -1,8 +1,8 @@
 
 WSDM_Introduction.pptx	16
 WSDM_Hard.pptx	7
-WSDM_Easy.pptx	72
+WSDM_Easy.pptx	72	68
 break
 WSDM_Ugly.pptx	37
-WSDM_Medium.pptx	59
+WSDM_Medium.pptx	59	18
 WSDM_labeling.pptx	29
